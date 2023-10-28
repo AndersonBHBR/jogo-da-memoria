@@ -7,7 +7,6 @@ Jogo divertido feito no HTML, CSS e Javascript com o objetivo de criar um jogo d
 ### Tecnologias Utilizadas
 
 - HTML5 e CSS3 para a estrutura e aparência do jogo.
-- CSS para o visual do jogo.
 - JavaScript para a lógica de programação e interatividade.
 - Emojis do teclado do Windows (Tecla Iniciar do Windows mais Tecla Ponto Final)😁😁😁😁😁.
 
