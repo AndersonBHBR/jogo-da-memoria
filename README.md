@@ -1,4 +1,4 @@
-# Projeto Jogo daq Memória de Emojis feito com JavaScript
+# Projeto Jogo da Memória de Emojis feito com JavaScript
 ![image](https://github.com/AndersonBHBR/jogo-da-memoria/blob/main/JogoDaMemoria.png)
 [Clique aqui para acessar o site rodando!](https://andersonbhbr.github.io/jogo-da-memoria/)
 
